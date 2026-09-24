@@ -25,6 +25,10 @@
 
 ###
 
+<h4 data-importer="text" align="center">Em busca de estágio e experiências profissionais para aprimorar minhas habilidades, contribuindo por meio do trabalho em equipe, colaboração e solução de problemas de forma a contribuir para o crescimento da empresa. </h4>
+
+###
+
 <h3 data-importer="text" align="left">Formação</h3>
 
 ###
