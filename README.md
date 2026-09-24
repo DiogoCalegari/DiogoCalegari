@@ -9,9 +9,15 @@
 ###
 
 <div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=%20Portif%C3%B3lio&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="itch logo"  />
+  <a href="https://www.linkedin.com/in/diogo-calegari-77667b35a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo" />
+  </a>
+  <a href="diogoreis@alunos.utfpr.edu.br">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo" />
+  </a>
+  <a href="https://diogocalegari.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=%20Portif%C3%B3lio&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="itch logo" />
+  </a>
 </div>
 
 ###
