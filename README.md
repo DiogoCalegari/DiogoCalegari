@@ -21,11 +21,17 @@
 
 ###
 
-<h3 data-importer="text" align="left">Sobre mim</h3>
+<h3 data-importer="text" align="center">Sobre mim</h3>
 
 ###
 
 <h4 data-importer="text" align="center">Em busca de estágio e experiências profissionais para aprimorar minhas habilidades, contribuindo por meio do trabalho em equipe, colaboração e solução de problemas de forma a contribuir para o crescimento da empresa.</h4>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 ###
 
