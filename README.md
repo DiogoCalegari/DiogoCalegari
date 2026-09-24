@@ -1,16 +1,10 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
 <h1 data-importer="text" align="center">DIOGO CALEGARI DOS REIS</h1>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="70" src="https://i.imgur.com/zbtC7To.png"  />
-</div>
 
 ###
 
@@ -21,19 +15,37 @@
 
 ###
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
 <h3 data-importer="text" align="left">Sobre mim</h3>
 
 ###
 
-<h4 data-importer="text" align="center">Em busca de estágio e experiências profissionais para aprimorar minhas habilidades, contribuindo por meio do trabalho em equipe, colaboração e solução de problemas de forma a contribuir para o crescimento da empresa. </h4>
+<h4 data-importer="text" align="center">Em busca de estágio e experiências profissionais para aprimorar minhas habilidades, contribuindo por meio do trabalho em equipe, colaboração e solução de problemas de forma a contribuir para o crescimento da empresa.</h4>
 
 ###
 
-<h3 data-importer="text" align="left">Formação</h3>
+<h3 data-importer="text" align="center">Formação</h3>
 
 ###
 
 <h4 data-importer="text" align="center">Cursando o 4º período de Análise e Desenvolvimento de Sistemas (ADS)        <br>UTFPR – Campus Cornélio Procópio.</h4>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="70" src="https://i.imgur.com/zbtC7To.png"  />
+</div>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 ###
 
@@ -59,6 +71,12 @@
 
 ###
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
 <h3 data-importer="text" align="center">Bancos de dados, versionamento e IDEs</h3>
 
 ###
@@ -75,6 +93,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
